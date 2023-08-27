@@ -1,2 +1,2 @@
 # MealPlanner
-Meal planning application
+Meal planning application summer project
