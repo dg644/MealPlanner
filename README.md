@@ -1,2 +1,2 @@
 # MealPlanner
-Meal planning application summer project
+Meal planning application summer project in C++.
